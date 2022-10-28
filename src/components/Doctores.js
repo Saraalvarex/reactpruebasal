@@ -70,7 +70,7 @@ export default class Doctores extends Component {
   render() {
     //Para ir a mostrar tabla especialidad seleccionada
     // if (this.state.status==true){ 
-    //     return (<Navigate to="/"/>) 
+    //     return (<Navigate to="/DetalleDoctores"/>) 
     //   } 
     return (
       <div>

@@ -13,6 +13,7 @@ export default class Router extends Component {
       var {especialidad, incremento} = useParams();
       return (<DetalleDoctores esp={especialidad} increment={incremento}/>)
     }
+    
     return (
       <BrowserRouter>
         <MenuRutas/>
