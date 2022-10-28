@@ -55,7 +55,6 @@ export default class Menu extends Component {
                   </li>
                   <li>
                     <a className="dropdown-item" href="#">
-                      No usar map() si solo obtienes 1 objeto
                     </a>
                   </li>
                   <li>
